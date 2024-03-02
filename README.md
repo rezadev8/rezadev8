@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Reza, a web programmer and computer student from Iran.<br><br>📚 Currently diving into DevOps.<br>🔧 Actively engaged in full-stack development.<br>🧑‍💻 Deepening my knowledge in NestJS and NextJS.<br>🗃️ Exploring advanced database technologies.<br>⏰ In my free time, I enjoy watching movies or listening to music.</p>
+<p align="left"><br>📚 Currently diving into DevOps.<br>🔧 Actively engaged in full-stack development.<br>🧑‍💻 Deepening my knowledge in NestJS and NextJS.<br>🗃️ Exploring advanced database technologies.</p>
 
 ###
 

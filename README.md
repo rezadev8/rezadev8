@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left"><br>📚 Currently diving into DevOps.<br>🔧 Actively engaged in full-stack development.<br>🧑‍💻 Deepening my knowledge in NestJS and NextJS.<br>🗃️ Exploring advanced database technologies.</p>
+<p align="left"><br>⌨️ JS developer <br>💻 Learning Nodejs <br></p>
 
 ###
 
@@ -51,11 +51,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rezadev8&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
- 
-###

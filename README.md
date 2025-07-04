@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left"><br>⌨️ JS developer <br>💻 Learning Nodejs <br></p>
+<p align="left">⌨️ JS developer <br>💻 Learning Nodejs <br></p>
 
 ###
 

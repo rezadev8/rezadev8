@@ -32,5 +32,5 @@
 
 ###
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=dart,js,ts&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=dart,js,ts,nodejs,nestjs,nextjs&theme=dark"/>
 </a>
